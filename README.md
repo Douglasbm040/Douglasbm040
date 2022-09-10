@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/Douglasbm040">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglasbm040&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasbm040&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasbm040&layout=compact&langs_count=4&theme=dracula"/></a>
 </div>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="douglas-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="douglas-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <a href="https://github.com/Douglasbm040/estudo-de-flutter">
+  <img align="center" alt="douglas-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a>
   <img align="center" alt="douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
